@@ -1,5 +1,8 @@
-﻿using System;
+﻿/*Sum of Two Numbers
 
+
+Task: Create a program that asks the user for two numbers, adds them together, and prints the result.*/
+using System;
 namespace OddsAndEvens
 {
     public class Calculator

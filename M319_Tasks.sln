@@ -4,6 +4,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SumOfTwoNumbers", "SumOfTwo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenChcker", "OddAndEvenChcker\OddAndEvenChcker.csproj", "{D6C56A67-A0DA-4158-9382-9CF0EAE8DEA1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{C8F81B9D-4DBD-43FC-B7CD-642F12484852}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -18,6 +20,10 @@ Global
 		{D6C56A67-A0DA-4158-9382-9CF0EAE8DEA1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D6C56A67-A0DA-4158-9382-9CF0EAE8DEA1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D6C56A67-A0DA-4158-9382-9CF0EAE8DEA1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8F81B9D-4DBD-43FC-B7CD-642F12484852}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8F81B9D-4DBD-43FC-B7CD-642F12484852}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8F81B9D-4DBD-43FC-B7CD-642F12484852}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8F81B9D-4DBD-43FC-B7CD-642F12484852}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection

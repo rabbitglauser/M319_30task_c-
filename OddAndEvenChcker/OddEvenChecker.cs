@@ -1,4 +1,8 @@
-﻿using System;
+﻿/*Odd or Even Checker
+
+
+Task: Write a program that takes an integer from the user and determines whether it is odd or even.*/
+using System;
                       
 namespace OddsAndEvens
 {
