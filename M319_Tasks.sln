@@ -14,6 +14,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCounter", "VowelCounte
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReverseString", "ReverseString\ReverseString.csproj", "{8700DFD5-F376-4F43-9233-5ABBDCB3236A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LargestNumberCalculator", "LargestNumberCalculator\LargestNumberCalculator.csproj", "{1991F222-DF90-4A5C-8646-1E5203F8C84C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PasswordValidator", "PasswordValidator\PasswordValidator.csproj", "{66DDAEEA-C68B-4E58-B14D-9235298A5E91}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -48,6 +52,14 @@ Global
 		{8700DFD5-F376-4F43-9233-5ABBDCB3236A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8700DFD5-F376-4F43-9233-5ABBDCB3236A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8700DFD5-F376-4F43-9233-5ABBDCB3236A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1991F222-DF90-4A5C-8646-1E5203F8C84C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1991F222-DF90-4A5C-8646-1E5203F8C84C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1991F222-DF90-4A5C-8646-1E5203F8C84C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1991F222-DF90-4A5C-8646-1E5203F8C84C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{66DDAEEA-C68B-4E58-B14D-9235298A5E91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{66DDAEEA-C68B-4E58-B14D-9235298A5E91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{66DDAEEA-C68B-4E58-B14D-9235298A5E91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{66DDAEEA-C68B-4E58-B14D-9235298A5E91}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
