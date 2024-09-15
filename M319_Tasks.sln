@@ -36,6 +36,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BubbleSortAlgo", "BubbleSor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SmallestElementArray", "SmallestElementArray\SmallestElementArray.csproj", "{5F1847CE-DC4C-4B2A-AC6B-E1EBE08886DE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackAccountSimulation", "BackAccountSimulation\BackAccountSimulation.csproj", "{551E0418-1A21-4F63-B253-C6CA53A82514}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "librarySystem", "librarySystem\librarySystem.csproj", "{B025A8BA-99ED-4733-8BE2-F9712C9814F1}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -114,6 +118,14 @@ Global
 		{5F1847CE-DC4C-4B2A-AC6B-E1EBE08886DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5F1847CE-DC4C-4B2A-AC6B-E1EBE08886DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5F1847CE-DC4C-4B2A-AC6B-E1EBE08886DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{551E0418-1A21-4F63-B253-C6CA53A82514}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{551E0418-1A21-4F63-B253-C6CA53A82514}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{551E0418-1A21-4F63-B253-C6CA53A82514}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{551E0418-1A21-4F63-B253-C6CA53A82514}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B025A8BA-99ED-4733-8BE2-F9712C9814F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B025A8BA-99ED-4733-8BE2-F9712C9814F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B025A8BA-99ED-4733-8BE2-F9712C9814F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B025A8BA-99ED-4733-8BE2-F9712C9814F1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
