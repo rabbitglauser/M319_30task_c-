@@ -40,6 +40,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BackAccountSimulation", "Ba
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "librarySystem", "librarySystem\librarySystem.csproj", "{B025A8BA-99ED-4733-8BE2-F9712C9814F1}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToDoListManager", "ToDoListManager\ToDoListManager.csproj", "{CE1F837E-0162-434F-9E5B-E90107AD09E0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ShoppingCartSystem", "ShoppingCartSystem\ShoppingCartSystem.csproj", "{7A9D3807-A1EE-4DBE-89B6-EBE001969D58}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -126,6 +130,14 @@ Global
 		{B025A8BA-99ED-4733-8BE2-F9712C9814F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B025A8BA-99ED-4733-8BE2-F9712C9814F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B025A8BA-99ED-4733-8BE2-F9712C9814F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE1F837E-0162-434F-9E5B-E90107AD09E0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE1F837E-0162-434F-9E5B-E90107AD09E0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE1F837E-0162-434F-9E5B-E90107AD09E0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE1F837E-0162-434F-9E5B-E90107AD09E0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A9D3807-A1EE-4DBE-89B6-EBE001969D58}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A9D3807-A1EE-4DBE-89B6-EBE001969D58}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A9D3807-A1EE-4DBE-89B6-EBE001969D58}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A9D3807-A1EE-4DBE-89B6-EBE001969D58}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
