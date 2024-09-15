@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleC
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConverter", "TempConverter\TempConverter.csproj", "{156B6521-A07E-4860-8178-B53703726A61}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MultiplicationTable", "MultiplicationTable\MultiplicationTable.csproj", "{0785E58E-BA89-4E71-B519-77EA2A51FC04}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,6 +32,10 @@ Global
 		{156B6521-A07E-4860-8178-B53703726A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{156B6521-A07E-4860-8178-B53703726A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{156B6521-A07E-4860-8178-B53703726A61}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0785E58E-BA89-4E71-B519-77EA2A51FC04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0785E58E-BA89-4E71-B519-77EA2A51FC04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0785E58E-BA89-4E71-B519-77EA2A51FC04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0785E58E-BA89-4E71-B519-77EA2A51FC04}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
