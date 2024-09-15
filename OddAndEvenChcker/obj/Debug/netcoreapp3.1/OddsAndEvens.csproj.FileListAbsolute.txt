@@ -1,0 +1,13 @@
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\bin\Debug\netcoreapp3.1\OddsAndEvens.exe
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\bin\Debug\netcoreapp3.1\OddsAndEvens.deps.json
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\bin\Debug\netcoreapp3.1\OddsAndEvens.runtimeconfig.json
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\bin\Debug\netcoreapp3.1\OddsAndEvens.runtimeconfig.dev.json
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\bin\Debug\netcoreapp3.1\OddsAndEvens.dll
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\bin\Debug\netcoreapp3.1\OddsAndEvens.pdb
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\obj\Debug\netcoreapp3.1\OddsAndEvens.csprojAssemblyReference.cache
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\obj\Debug\netcoreapp3.1\OddsAndEvens.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\obj\Debug\netcoreapp3.1\OddsAndEvens.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\obj\Debug\netcoreapp3.1\OddsAndEvens.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\obj\Debug\netcoreapp3.1\OddsAndEvens.dll
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\obj\Debug\netcoreapp3.1\OddsAndEvens.pdb
+C:\Users\samue\RiderProjects\M319_Tasks\OddsAndEvens\obj\Debug\netcoreapp3.1\OddsAndEvens.genruntimeconfig.cache

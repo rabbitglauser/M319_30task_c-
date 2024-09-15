@@ -1,0 +1,13 @@
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\bin\Debug\netcoreapp3.1\OddAndEvenChcker.exe
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\bin\Debug\netcoreapp3.1\OddAndEvenChcker.deps.json
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\bin\Debug\netcoreapp3.1\OddAndEvenChcker.runtimeconfig.json
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\bin\Debug\netcoreapp3.1\OddAndEvenChcker.runtimeconfig.dev.json
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\bin\Debug\netcoreapp3.1\OddAndEvenChcker.dll
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\bin\Debug\netcoreapp3.1\OddAndEvenChcker.pdb
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\obj\Debug\netcoreapp3.1\OddAndEvenChcker.csprojAssemblyReference.cache
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\obj\Debug\netcoreapp3.1\OddAndEvenChcker.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\obj\Debug\netcoreapp3.1\OddAndEvenChcker.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\obj\Debug\netcoreapp3.1\OddAndEvenChcker.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\obj\Debug\netcoreapp3.1\OddAndEvenChcker.dll
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\obj\Debug\netcoreapp3.1\OddAndEvenChcker.pdb
+C:\Users\samue\RiderProjects\M319_Tasks\OddAndEvenChcker\obj\Debug\netcoreapp3.1\OddAndEvenChcker.genruntimeconfig.cache

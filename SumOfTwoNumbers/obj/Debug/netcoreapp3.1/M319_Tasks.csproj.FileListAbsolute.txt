@@ -1,0 +1,13 @@
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\bin\Debug\netcoreapp3.1\M319_Tasks.exe
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\bin\Debug\netcoreapp3.1\M319_Tasks.deps.json
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\bin\Debug\netcoreapp3.1\M319_Tasks.runtimeconfig.json
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\bin\Debug\netcoreapp3.1\M319_Tasks.runtimeconfig.dev.json
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\bin\Debug\netcoreapp3.1\M319_Tasks.dll
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\bin\Debug\netcoreapp3.1\M319_Tasks.pdb
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\obj\Debug\netcoreapp3.1\M319_Tasks.csprojAssemblyReference.cache
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\obj\Debug\netcoreapp3.1\M319_Tasks.csproj.CoreCompileInputs.cache
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\obj\Debug\netcoreapp3.1\M319_Tasks.AssemblyInfoInputs.cache
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\obj\Debug\netcoreapp3.1\M319_Tasks.AssemblyInfo.cs
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\obj\Debug\netcoreapp3.1\M319_Tasks.dll
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\obj\Debug\netcoreapp3.1\M319_Tasks.pdb
+C:\Users\samue\RiderProjects\M319_Tasks\M319_Tasks\obj\Debug\netcoreapp3.1\M319_Tasks.genruntimeconfig.cache
