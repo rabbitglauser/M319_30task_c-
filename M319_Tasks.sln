@@ -6,6 +6,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OddAndEvenChcker", "OddAndE
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleCalculator", "SimpleCalculator\SimpleCalculator.csproj", "{C8F81B9D-4DBD-43FC-B7CD-642F12484852}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempConverter", "TempConverter\TempConverter.csproj", "{156B6521-A07E-4860-8178-B53703726A61}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,6 +26,10 @@ Global
 		{C8F81B9D-4DBD-43FC-B7CD-642F12484852}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C8F81B9D-4DBD-43FC-B7CD-642F12484852}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C8F81B9D-4DBD-43FC-B7CD-642F12484852}.Release|Any CPU.Build.0 = Release|Any CPU
+		{156B6521-A07E-4860-8178-B53703726A61}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{156B6521-A07E-4860-8178-B53703726A61}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{156B6521-A07E-4860-8178-B53703726A61}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{156B6521-A07E-4860-8178-B53703726A61}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
