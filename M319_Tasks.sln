@@ -24,6 +24,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ArraySum", "ArraySum\ArrayS
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FibonacciChecker", "FibonacciChecker\FibonacciChecker.csproj", "{38A6C32B-2D10-4A25-9B92-A61575AA3876}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PalindromeChecker", "PalindromeChecker\PalindromeChecker.csproj", "{203D2523-438D-48D9-8B03-C4CEB64FC7BC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RockPaperScissorsGame", "RockPaperScissorsGame\RockPaperScissorsGame.csproj", "{4094DB55-5906-492C-93D1-C7A259BD93DD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -78,6 +82,14 @@ Global
 		{38A6C32B-2D10-4A25-9B92-A61575AA3876}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{38A6C32B-2D10-4A25-9B92-A61575AA3876}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{38A6C32B-2D10-4A25-9B92-A61575AA3876}.Release|Any CPU.Build.0 = Release|Any CPU
+		{203D2523-438D-48D9-8B03-C4CEB64FC7BC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{203D2523-438D-48D9-8B03-C4CEB64FC7BC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{203D2523-438D-48D9-8B03-C4CEB64FC7BC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{203D2523-438D-48D9-8B03-C4CEB64FC7BC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4094DB55-5906-492C-93D1-C7A259BD93DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4094DB55-5906-492C-93D1-C7A259BD93DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4094DB55-5906-492C-93D1-C7A259BD93DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4094DB55-5906-492C-93D1-C7A259BD93DD}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(NestedProjects) = preSolution
 	EndGlobalSection
